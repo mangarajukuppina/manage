@@ -1,0 +1,21 @@
+[{       "id": 1, 
+      "name": {         "default": "Andhra Pradesh", 
+        "en": "Andhra Pradesh",         "hi": "आंध्र प्रदेश" 
+      }     }, 
+    {       "id": 2, 
+      "name": {         "default": "Arunachal Pradesh", 
+        "en": "Arunachal Pradesh",         "hi": "अरुणाचल प्रदेश" 
+      }     }, 
+    {       "id": 3, 
+      "name": {         "default": "Assam", 
+        "en": "Assam",         "hi": "असम" 
+      }     }, 
+    {       "id": 4, 
+      "name": {         "default": "Bihar", 
+        "en": "Bihar",         "hi": "बिहार" 
+      }     }, 
+    {       "id": 5, 
+      "name": {         "default": "Chandigarh (UT)", 
+        "en": "Chandigarh (UT)",         "hi": "चंडीगढ़" 
+      }     }
+]
